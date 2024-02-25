@@ -1,0 +1,164 @@
+.main{
+    width: 960px;
+    height: 650px;
+    border: solid 1px black;
+    margin-left: 270px;
+}
+.nav{
+    width: 960px;
+    height: 50px;
+    background-color: rgb(196, 142, 204);
+}
+.home{
+    padding-top: 10px;
+}
+.home a{
+    margin-left: 10px;
+    text-decoration: none;
+    margin-top: 10px;
+    color: purple;
+}
+.ab{
+    margin-top: -18px;
+}
+.ab a{
+    text-decoration: none;
+    margin-top: -20px;
+    color: purple;
+    margin-left: 80px;
+}
+.pro{
+    margin-top: -18.5px;
+}
+.pro a{
+    text-decoration: none;
+    margin-top: -20px;
+    color: purple;
+    margin-left: 190px;
+}
+.ct{
+    margin-top: -18.5px;
+}
+.ct a{
+    text-decoration: none;
+    margin-top: -20px;
+    color: blue;
+    margin-left: 310px;
+}
+.sr{
+    margin-left: 650px;
+    margin-top: -20px;
+    color: red;
+}
+.sr button{
+    background-color: rgb(80, 80, 245);
+    color: white;
+    border-radius: 4px;
+}
+.img1 img{
+    width: 100%;
+    height: 130px;
+}
+.section{
+    margin-top: -29px;
+    width: 70%;
+    background-color: rgb(152, 222, 250);
+    height: 400px;
+}
+.txt1{
+    font-size: 20px;
+    color: red;
+    margin-left: 240px;
+    padding-top: 20px;
+}
+.txt2{
+    font-size: 14px;
+    margin-left: 20px;
+    
+}
+.in4{
+    margin-left: 270px;
+    margin-top: -330px;
+}
+.lb1 input{
+    border-radius: 6px;
+    height: 20px;
+    width: 300px;
+}
+.lb2{
+    margin-top: 5px;
+}
+.lb2 input{
+    border-radius: 6px;
+    height: 20px;
+    width: 300px;
+}
+.lb3{
+    margin-top: 5px;
+}
+.btn2{
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.btn2 button{
+    border-radius: 6px;
+}
+.aside{
+    margin-top: -375px;
+    float: right;
+    width: 30%;
+    height: 367px;
+    border: 4px solid gray;
+}
+.txt3 p{
+    margin-left: 120px;
+    font-size: 17px;
+    color: red;
+    text-shadow: 1px 1px 1px red;
+}
+.img2 img{
+    margin-top: -4px;
+    margin-left: 4px;
+    height: 80px;
+    width: 280px;
+    box-shadow: 1px 1px 1px gray;
+}
+.txt4{
+    margin-left: 80px;
+    font-size: 17px;
+    color: red;
+    text-shadow: 1px 1px 1px red;
+}
+.img3 img{
+    margin-top: 4px;
+    margin-left: 4px;
+    height: 80px;
+    width: 280px;
+    box-shadow: 1px 1px 1px gray;
+}
+.txt5{
+    margin-left: 97px;
+    font-size: 17px;
+    color: red;
+    text-shadow: 1px 1px 1px red;
+}
+.img4 img{
+    margin-top: 4px;
+    margin-left: 4px;
+    height: 80px;
+    width: 280px;
+    box-shadow: 1px 1px 1px gray;
+}
+.footer{
+    width: 100%;
+    height: 95px;
+    background-color: rgb(173, 214, 91);
+}
+.txt6{
+    margin-left: 40px;
+    padding-top: 37px;
+}
+.txt7{
+    margin-left: 600px;
+    margin-top: -20px;
+}
